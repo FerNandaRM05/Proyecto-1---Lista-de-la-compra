@@ -22,8 +22,8 @@ Las pantallas que debe tener son:
 
 + Lista de la compra (pantalla principal): En esta vista, podemos añadir los productos que tenemos pendientes de comprar. Se puede hacer de dos formas:
 
-Mediante un cuadro de texto, escribiendo el nombre, y que junto a éste aparezcan tantas casillas como supermercados registrados tengamos para que, opcionalmente, puedas marcar en cuál de ellos está disponible.
-Mediante un selector de productos frecuentes, que obtiene los datos de los productos registrados en la pantalla anteriormente citada. Lo ideal (pero no obligatorio) sería que este selector mostrase sus datos ordenados de forma alfabética.
+   + Mediante un cuadro de texto, escribiendo el nombre, y que junto a éste aparezcan tantas casillas como supermercados registrados tengamos para que,     opcionalmente, puedas marcar en cuál de ellos está disponible.
+   + Mediante un selector de productos frecuentes, que obtiene los datos de los productos registrados en la pantalla anteriormente citada. Lo ideal (pero no obligatorio) sería que este selector mostrase sus datos ordenados de forma alfabética.
 
 ## Tecnologías
 ***
